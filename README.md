@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/? 
+font=Righteous&size=35&center&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋 ;+I'm+MithunBaadkar!;" />
+</h1>
+
 
 <!--
 **MithunBaadkar/MithunBaadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
