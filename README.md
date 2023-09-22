@@ -2,17 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MithunBaadkar!;" />
 </h1>
 
-- uses: Platane/snk@v3
-  with:
-    
-    github_user_name: ${{ github.repository_owner }}
 
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-  env:
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
