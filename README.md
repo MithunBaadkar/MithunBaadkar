@@ -10,11 +10,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mithunbaadkar&icon=10&color=12)](https://visitcount.itsvg.in)
-<style>
-    .custom-style {
-        color: red;
-        font-size: 18px;
-    }
-</style>
-
-<p class="custom-style">This is a paragraph with custom styling.</p>
