@@ -9,6 +9,7 @@
 - 👨‍💻 My portfolio Website:- [https://mithunbaadkar.github.io/www.mithunbaadkar.com.github.io/](https://mithunbaadkar.github.io/www.mithunbaadkar.com.github.io/)
 
 - 📫 How to reach me **mithunbaadkar@gmail.com**
+  <img src="https://komarev.com/ghpvc/?username=mithunbaadkar&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
