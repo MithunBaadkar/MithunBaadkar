@@ -1,5 +1,7 @@
 <h3 align="center">
-        >&gt; Hey There!, I am Mithun Baadkar
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank">Mithun Baadkar</a></b>
+        </samp>
 </h3>
 
 ## 🌐 Socials:
