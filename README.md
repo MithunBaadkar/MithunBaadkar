@@ -1,7 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
-        </samp>
+        >&gt; Hey There!, I am Mithun Baadkar
 </h3>
 
 ## 🌐 Socials:
