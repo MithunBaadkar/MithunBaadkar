@@ -19,5 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mithunbaadkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mithunbaadkar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunbaadkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mithunbaadkar&theme=github-dark" alt="GitHub Contribution Graph")
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithunbaadkar&theme=github-dark" alt="GitHub Contribution Graph")]
 
