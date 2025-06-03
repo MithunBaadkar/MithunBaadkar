@@ -1,3 +1,6 @@
+<p align="center">
+        <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
+</p>
 <h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank">Mithun Baadkar</a></b>
