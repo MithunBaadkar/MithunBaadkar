@@ -21,10 +21,12 @@
 
 </h1>
 
-# 📊 GitHub Stats:
+# &#128200; GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Mithunbaadkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mithunbaadkar&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunbaadkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# &#128197;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithunbaadkar&theme=github-dark" alt="GitHub Contribution Graph" />
 
